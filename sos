@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Site von Moritz Ratz</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  </head>
+  <body>
+    <h1>Bilder verlinken</h1>
+    <a href="http://evelynfinkmennel.at/ueber-mich/" target="_blank"><img src="Screenshot (6).png" alt="Hier sehen Sie die wunderschöne Evelyn Mennel Fink" width="300" title="Mutter des Vinzenz"></img></a>
+
+<br></br>
+
+    <a href="https://www.borg.at/fotos/album/schuelerbilder-2020-2021/?L=0&tx_fsmediagallery_mediagallery%5BmediaAssetUid%5D=492&tx_fsmediagallery_mediagallery%5Baction%5D=showAsset&cHash=6659a96514fe50eb8210293213f8f4cc" target="_blank"><img src="Screenhot (6)" alt="Der Drip" width="300" title="Drip"></a>
+
+<h2>Egger Schüler/innen sind .....</h2>
+
+
+<ol>
+<li>fleißig</li>
+<li>strebsam</li>
+<li>intellegent</li>
+
+
+
+
+
+</ol>
+
+
+
+
+
+  </body>
+</html>
